@@ -6,4 +6,5 @@
 
 1. Visual Studio Code 설치
 2. Visual Studio Code 확장 - 에서 C/C++, C/C++ Extension Pack의 설치가 필요함
+   
 ![확장팩 설치](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/extension.png)
