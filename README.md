@@ -17,7 +17,9 @@ C++ 파일의 수행을 위해 G++, GCC, GDB 등의 설치
 
 #3
 패키지의 실행을 위해 ".vscode/tasks.json"의 수정 필요
+
 ![tasks.json](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/task_modify.png)
+
 위 항목에서
 
 ray_intersection.cpp을 실행하고 싶다면 16번째 줄 주석 제거
