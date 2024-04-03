@@ -40,3 +40,9 @@ shading의 결과 화면
 ![anti_aliasing](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/anti_aliasing.png)
 
 antialiasing의 결과 화면
+
+# ETC
+
+코드의 참고는
+
+<https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere> 에서 수식과 헤더 파일을 참고해 작성하였음.
