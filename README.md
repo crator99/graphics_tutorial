@@ -23,5 +23,20 @@ C++ 파일의 수행을 위해 G++, GCC, GDB 등의 설치
 위 항목에서
 
 ray_intersection.cpp을 실행하고 싶다면 16번째 줄 주석 제거
+
 shading.cpp을 실행하고 싶다면 17번째 줄 주석 제거
+
 antialiasing.cpp을 실행하고 싶다면 18번째 줄 주석 제거 필수
+
+#4
+![ray_intersection](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/ray_intersection.png)
+
+ray_intersection의 결과 화면
+
+![shading](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/shading.png)
+
+shading의 결과 화면
+
+![anti_aliasing](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/anti_aliasing.png)
+
+antialiasing의 결과 화면
