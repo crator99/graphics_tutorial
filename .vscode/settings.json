@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "utility": "cpp",
+        "cmath": "cpp",
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "limits": "cpp",
+        "tuple": "cpp",
+        "iostream": "cpp",
+        "random": "cpp"
+    }
+}
