@@ -15,7 +15,7 @@ C++ 파일의 수행을 위해 G++, GCC, GDB 등의 설치
 
 <https://code.visualstudio.com/docs/cpp/config-mingw#_create-hello-world> 에서 참고 후 환경 변수에서 PATH 설정 필수
 
-#3
+# 3
 패키지의 실행을 위해 ".vscode/tasks.json"의 수정 필요
 
 ![tasks.json](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/task_modify.png)
@@ -28,7 +28,7 @@ shading.cpp을 실행하고 싶다면 17번째 줄 주석 제거
 
 antialiasing.cpp을 실행하고 싶다면 18번째 줄 주석 제거 필수
 
-#4
+# 4
 ![ray_intersection](https://github.com/crator99/graphics_tutorial/blob/main/screenshots/ray_intersection.png)
 
 ray_intersection의 결과 화면
